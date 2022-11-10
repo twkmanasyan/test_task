@@ -1,0 +1,13 @@
+.auth-wrapper {
+    background-color: #010134;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-form {
+    width:600px;
+    padding-left:15px;
+    padding-right: 15px;
+}
